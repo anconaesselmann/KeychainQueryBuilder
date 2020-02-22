@@ -1,0 +1,16 @@
+PODS:
+  - KeychainQueryBuilder (0.1.0)
+
+DEPENDENCIES:
+  - KeychainQueryBuilder (from `../`)
+
+EXTERNAL SOURCES:
+  KeychainQueryBuilder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeychainQueryBuilder: 9a888a98ab8acbfd608e02debf3147baa38a5913
+
+PODFILE CHECKSUM: 1cc2541c51935c1d2a65aaad86401f3cff8a7c06
+
+COCOAPODS: 1.7.5

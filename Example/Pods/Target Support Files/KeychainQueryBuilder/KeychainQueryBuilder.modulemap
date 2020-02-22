@@ -1,0 +1,6 @@
+framework module KeychainQueryBuilder {
+  umbrella header "KeychainQueryBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KeychainQueryBuilder_Tests' do
+  pod 'KeychainQueryBuilder', :path => '../'
+  
+  
+end
